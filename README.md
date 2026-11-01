@@ -1,4 +1,4 @@
-# SmartStock — Inventory Management Demo
+# SmartStock — Inventory Management Solution
 
 A beginner-friendly inventory management prototype built with Python, Streamlit and SQLite.
 
